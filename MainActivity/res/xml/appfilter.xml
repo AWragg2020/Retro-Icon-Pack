@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <scale factor=".70" />
+    <!-- Browser -->
+    
+	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat" />    
+    <item component="ComponentInfo{com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackpalyer" />
+    <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave_browser" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome_browser" />
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="clock" />    
+    <item component="ComponentInfo{jlzn.com.android.compass/jlzn.com.android.compass.JLZN_CompassActivity}" drawable="compass" />    
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />    
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gdrive" />    
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity}" drawable="file_explorer" />
+    <item component="ComponentInfo{com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery}" drawable="gallery" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google_app" />
+    <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity}" drawable="lastpass" />
+    <item component="ComponentInfo{jp.susatthi.ManifestViewer/jp.susatthi.ManifestViewer.MainTabActivity}" drawable="manifest_viewer" />
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="gmaps" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.avjindersinghsekhon.minimaltodo/com.example.avjindersinghsekhon.toodle.MainActivity}" drawable="checklist" />
+    <item component="ComponentInfo{com.ogden.memo/com.ogden.memo.ui.MemoMain}" drawable="notes" />    
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova" />    
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="play_games" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="playstore" />    
+    <item component="ComponentInfo{com.neuralprisma/com.prisma.ui.starter.StarterActivity}" drawable="prisma" />    
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}" drawable="settings" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.gionee.softmanager/com.gionee.softmanager.MainActivity}" drawable="system_manager" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="tesla_unread" />
+    <item component="ComponentInfo{com.gionee.flashlight/com.gionee.flashlight.FlashLightActivity}" drawable="torch" />
+    <item component="ComponentInfo{com.urbandroid.lux/com.urbandroid.lux.MainActivity}" drawable="twilight" />
+    <item component="ComponentInfo{com.ubercab/com.ubercab.UBUberActivity}" drawable="uber" />
+    <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc_player" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+    <item component="ComponentInfo{com.whatsapp.clone/com.whatsapp.clone.MainActivity}" drawable="whatsapp" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    
+</resources>

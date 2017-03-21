@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic theme information -->
+    <string name="theme_title">LiaMin</string>
+    <string name="developer_name">Liam2016</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">http://github.com/Liam206</string>
+    <string name="theme_description">&quot;Mininal Icon pack\nA simple icon pack made for the sole purpose of testing&quot;</string>
+
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature"></string>
+
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1"></string>
+    <string name="theme_preview2"></string>
+    <string name="title_activity_icons">Icons</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Bye world!</string>
+
+    <!-- Go theme information -->
+
+    <string name="theme_info">Minimal Icon pack made one day I felt like learning how to do this stuff.</string>
+    <string name="go_applied"></string>
+
+</resources>
